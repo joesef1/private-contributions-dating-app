@@ -2,5 +2,5 @@
 
 This repository act as a mirror of my private repository
 
-Membership Plans-page1 testimonial
+page1 Membership Plans-testimonial-footer
 
