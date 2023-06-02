@@ -12,3 +12,4 @@ login page
 ForgetPassword page
 reset password
 register page
+Profile Paqe - Detailed Profile
