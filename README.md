@@ -11,3 +11,4 @@ pricing page
 login page
 ForgetPassword page
 reset password
+register page
