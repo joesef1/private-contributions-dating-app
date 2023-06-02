@@ -9,3 +9,4 @@ Success Stories page
 ContactUs page
 pricing page
 login page
+ForgetPassword page
