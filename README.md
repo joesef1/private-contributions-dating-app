@@ -7,3 +7,4 @@ page 2
 Active Members page
 Success Stories page
 ContactUs page
+pricing page
