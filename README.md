@@ -16,3 +16,4 @@ Profile Paqe - Detailed Profile
 Profile Paqe - Partner Preference
 Profile Paqe - Photo Gallery
 Notifications page
+blogs page
