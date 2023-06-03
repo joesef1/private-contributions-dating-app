@@ -14,3 +14,4 @@ reset password
 register page
 Profile Paqe - Detailed Profile
 Profile Paqe - Partner Preference
+Profile Paqe - Photo Gallery
