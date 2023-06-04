@@ -20,3 +20,4 @@ blogs page
 Shop Page
 items details page
 cart page
+Checkout page
