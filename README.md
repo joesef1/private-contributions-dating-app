@@ -18,3 +18,4 @@ Profile Paqe - Photo Gallery
 Notifications page
 blogs page
 Shop Page
+items details page
