@@ -22,3 +22,4 @@ items details page
 cart page
 Checkout page
 page2 edit
+routing
