@@ -8,7 +8,7 @@ Active Members page
 Success Stories page
 ContactUs page
 pricing page
-login page
+login page 
 ForgetPassword page
 reset password
 register page 
