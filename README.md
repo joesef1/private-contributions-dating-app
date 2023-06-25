@@ -17,7 +17,7 @@ Profile Paqe - Partner Preference
 Profile Paqe - Photo Gallery
 Notifications page
 blogs page
-Shop Page
+Shop Page 
 items details page
 cart page
 Checkout page
