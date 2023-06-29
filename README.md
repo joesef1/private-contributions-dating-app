@@ -20,7 +20,7 @@ blogs page
 Shop Page 
 items details page
 cart page
-Checkout page
+Checkout page 
 page2 edit 
 routing (Notificaation page)    
  
