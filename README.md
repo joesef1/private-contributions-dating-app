@@ -7,7 +7,7 @@ page 2
 Active Members page
 Success Stories page 
 ContactUs page
-pricing page
+pricing page 
 login page 
 ForgetPassword page
 reset password
